@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+#Examples
+Assets/Doozy/Examples
+Assets/TextMesh Pro/Documentation
